@@ -13,5 +13,5 @@
 # limitations under the License.
 
 # Pixel APNs
-PRODUCT_COPY_FILES += \
-	vendor/proton/telephony/apns-full-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml
+#PRODUCT_COPY_FILES += \
+#	vendor/proton/telephony/apns-full-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml
